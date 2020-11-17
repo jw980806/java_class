@@ -37,3 +37,13 @@
 - 다른 branch로 변경하는 것을 check out이라고 부른다
 - Git은 처음에는 main(master) branch에서 시작
 
+# Merge
+- 다른 Branch에서 작업한 내용을 합치는 것
+- 합치려는 Branch로 Check out을 한 후에 Merge를 선택한 후 원하는 Branch를 선택한다
+  ex: master에 BranchA를 합치고 싶은 경우,
+       master로 check out한 후에  BranchA를 merge한다
+
+# fast-forward
+- 앞으로 감기
+- 바람직한 Merge
+
