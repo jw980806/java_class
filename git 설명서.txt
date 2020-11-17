@@ -27,3 +27,11 @@
 
 # 이전 커밋으로 돌아가기
 - 원래는 명령어를 써야함
+- 우클릭 -> switch to -> commit
+- show view -> git reflog 원하는 커밋을 체크아웃
+
+# Branch
+- 나뭇가지
+- 하나의 폴더를 다양한 상태로 나누는 것
+- git repo -> switch to -> new branch : 새로운 브렌취 생성
+
