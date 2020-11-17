@@ -33,5 +33,7 @@
 # Branch
 - 나뭇가지
 - 하나의 폴더를 다양한 상태로 나누는 것
-- git repo -> switch to -> new branch : 새로운 브렌취 생성
+- git repo -> switch to -> new branch : 새로운 branch생성
+- 다른 branch로 변경하는 것을 check out이라고 부른다
+- Git은 처음에는 main(master) branch에서 시작
 
