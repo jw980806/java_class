@@ -39,4 +39,4 @@
 
 
 ## 화면 예시
-<img src = "" alt="erd" width="500" height="600">
+<img src = "https://github.com/jw980806/java_class/blob/main/src/%EB%A9%94%EB%89%B4%EB%A9%94%EC%9D%B8.PNG?raw=true" alt="erd" width="500" height="600">
